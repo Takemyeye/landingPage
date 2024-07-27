@@ -1,0 +1,11 @@
+main {
+  font-family: var(--text-font-family);
+  font-optical-sizing: var(--text-font-optical-sizing);
+  font-weight: var(--text-font-weight);
+  font-style: var(--text-font-style);
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
