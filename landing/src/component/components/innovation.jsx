@@ -2,7 +2,7 @@ import { Text } from "./textUnit"
 import "./styles/innovation.css"
 
   const img = {
-    img:"img/img.jpg"
+    img:"img/landing_deploy.png"
   }
 export function Innovation () {
 
